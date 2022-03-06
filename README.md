@@ -29,5 +29,6 @@ https://foundation.app/collection/techne
 
 LEE SEOMIN
 
-https://github.com/leeseomin
+https://github.com/leeseomin 
+
 https://twitter.com/Techne_0_1

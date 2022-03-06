@@ -32,3 +32,5 @@ LEE SEOMIN
 https://github.com/leeseomin 
 
 https://twitter.com/Techne_0_1
+
+https://linktr.ee/techne_0_1 

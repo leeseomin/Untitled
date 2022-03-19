@@ -2,7 +2,7 @@
 
 
 
-### NFT marketplaces
+### :o:  NFT marketplaces   :point_down:
 
 https://foundation.app/collection/techne
 

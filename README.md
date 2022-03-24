@@ -64,7 +64,7 @@ https://foundation.app/collection/techne
  <br/><br/> 
  
  
-  ### Untitled
+ ### Untitled
 
 
  <img src="https://github.com/leeseomin/Untitled/blob/main/art/8.png" width="1800">  
@@ -77,6 +77,14 @@ https://foundation.app/collection/techne
 
 
  <img src="https://github.com/leeseomin/Untitled/blob/main/art/9h.png" width="1800">  
+
+ <br/><br/> 
+ 
+ 
+  ### Untitled
+
+
+ <img src="https://github.com/leeseomin/Untitled/blob/main/art/10.png" width="1800">  
 
  <br/><br/> 
  

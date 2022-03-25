@@ -92,7 +92,7 @@ https://foundation.app/collection/techne
   ### Untitled
 
 
- <img src="https://github.com/leeseomin/Untitled/blob/main/art/10.png" width="80%">  
+ <img src="https://github.com/leeseomin/Untitled/blob/main/art/10.png" width="70%">  
 
  <br/><br/> 
  
@@ -100,7 +100,7 @@ https://foundation.app/collection/techne
   ### Untitled
 
 
- <img src="https://github.com/leeseomin/Untitled/blob/main/art/11.png" width="80%"> 
+ <img src="https://github.com/leeseomin/Untitled/blob/main/art/11.png" width="70%"> 
  <br/><br/> 
  
  

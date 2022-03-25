@@ -12,14 +12,14 @@ https://foundation.app/collection/techne
 ### Untitled
 
 
- <img src="https://github.com/leeseomin/Untitled/blob/main/art/1.png" width="85%">   
+ <img src="https://github.com/leeseomin/Untitled/blob/main/art/1.png" width="80%">   
 
  <br/><br/>
  
 ### Untitled
 
 
- <img src="https://github.com/leeseomin/Untitled/blob/main/art/2.png" width="85%">   
+ <img src="https://github.com/leeseomin/Untitled/blob/main/art/2.png" width="80%">   
  
   <br/><br/>
 
@@ -27,7 +27,7 @@ https://foundation.app/collection/techne
 ### Untitled
 
 
- <img src="https://github.com/leeseomin/Untitled/blob/main/art/3.png" width="85%">   
+ <img src="https://github.com/leeseomin/Untitled/blob/main/art/3.png" width="80%">  
 
  <br/><br/>
  
@@ -35,7 +35,7 @@ https://foundation.app/collection/techne
 ### Untitled
 
 
- <img src="https://github.com/leeseomin/Untitled/blob/main/art/4.png" width="1800">  
+ <img src="https://github.com/leeseomin/Untitled/blob/main/art/4.png" width="80%">   
 
  <br/><br/>
 
@@ -43,7 +43,7 @@ https://foundation.app/collection/techne
 ### Untitled
 
 
- <img src="https://github.com/leeseomin/Untitled/blob/main/art/5.png" width="70%">  
+ <img src="https://github.com/leeseomin/Untitled/blob/main/art/5.png" width="65%">  
 
  <br/><br/>
  
@@ -51,7 +51,7 @@ https://foundation.app/collection/techne
 ### Untitled
 
 
- <img src="https://github.com/leeseomin/Untitled/blob/main/art/5A.png" width="70%">  
+ <img src="https://github.com/leeseomin/Untitled/blob/main/art/5A.png" width="65%">  
 
  <br/><br/> 
  
@@ -59,7 +59,7 @@ https://foundation.app/collection/techne
 ### Untitled
 
 
- <img src="https://github.com/leeseomin/Untitled/blob/main/art/6.png" width="1800">  
+ <img src="https://github.com/leeseomin/Untitled/blob/main/art/6.png" width="80%">   
 
  <br/><br/> 
  
@@ -67,7 +67,7 @@ https://foundation.app/collection/techne
  ### Untitled
 
 
- <img src="https://github.com/leeseomin/Untitled/blob/main/art/7.png" width="1800">  
+ <img src="https://github.com/leeseomin/Untitled/blob/main/art/7.png" width="80%"> 
 
  <br/><br/> 
  
@@ -75,7 +75,7 @@ https://foundation.app/collection/techne
  ### Untitled
 
 
- <img src="https://github.com/leeseomin/Untitled/blob/main/art/8.png" width="1800">  
+ <img src="https://github.com/leeseomin/Untitled/blob/main/art/8.png" width="80%"> 
 
  <br/><br/> 
  
@@ -84,7 +84,7 @@ https://foundation.app/collection/techne
  ### Untitled
 
 
- <img src="https://github.com/leeseomin/Untitled/blob/main/art/9h.png" width="1800">  
+ <img src="https://github.com/leeseomin/Untitled/blob/main/art/9h.png" width="80%"> 
 
  <br/><br/> 
  
@@ -92,7 +92,7 @@ https://foundation.app/collection/techne
   ### Untitled
 
 
- <img src="https://github.com/leeseomin/Untitled/blob/main/art/10.png" width="1800">  
+ <img src="https://github.com/leeseomin/Untitled/blob/main/art/10.png" width="80%">  
 
  <br/><br/> 
  
@@ -100,8 +100,7 @@ https://foundation.app/collection/techne
   ### Untitled
 
 
- <img src="https://github.com/leeseomin/Untitled/blob/main/art/11.png" width="1800">  
-
+ <img src="https://github.com/leeseomin/Untitled/blob/main/art/11.png" width="80%"> 
  <br/><br/> 
  
  

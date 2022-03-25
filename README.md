@@ -43,9 +43,17 @@ https://foundation.app/collection/techne
 ### Untitled
 
 
- <img src="https://github.com/leeseomin/Untitled/blob/main/art/5.png" width="1800">  
+ <img src="https://github.com/leeseomin/Untitled/blob/main/art/5.png" width="70%">  
 
  <br/><br/>
+ 
+
+### Untitled
+
+
+ <img src="https://github.com/leeseomin/Untitled/blob/main/art/5A.png" width="70%">  
+
+ <br/><br/> 
  
  
 ### Untitled

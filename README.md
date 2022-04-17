@@ -11,8 +11,15 @@ https://rarible.com/leeseomin/owned
  
  
 
+ ### Untitled
+
+
+ <img src="https://github.com/leeseomin/Untitled/blob/main/art/ra1.png" width="80%"> 
  
  
+ https://rarible.com/token/0xf6793da657495ffeff9ee6350824910abc21356c:64669575457772622843733520472986026667877001999885492881277833910229705687087?tab=details
+  <br/><br/>
+
 
 ### Untitled
 

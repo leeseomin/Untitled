@@ -127,7 +127,6 @@ https://rarible.com/leeseomin/owned
 
 
  <img src="https://github.com/leeseomin/Untitled/blob/main/art/ra3.png" width="80%"> 
- <br/><br/> 
  https://rarible.com/token/0xf6793da657495ffeff9ee6350824910abc21356c:64669575457772622843733520472986026667877001999885492881277833910229705687091?tab=details
  
   <br/><br/> 
